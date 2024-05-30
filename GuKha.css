@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* Hide the menu by default */
+#navbar-menu {
+    display: none;
+}
+
+/* Show the menu when the show-menu class is applied */
+#navbar-menu.show-menu {
+    display: block;
+}
+
+/* Add other styles as needed */
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.product, .cart {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
