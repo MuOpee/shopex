@@ -12,21 +12,23 @@
 
 /* Add other styles as needed */
 
+/* styles.css */
 
 body {
     font-family: Arial, sans-serif;
 }
 
 .product, .cart {
-    border: 1px solid #ddd;
+    border: 1px solid golden;
     padding: 20px;
     margin: 10px;
 }
 
 button {
-    background-color: #007bff;
-    color: #fff;
+    background-color: Red;
+    color: white;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
 }
+
