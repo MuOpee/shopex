@@ -4,8 +4,8 @@ let cart = [];
 let totalPrice = 0;
 
 function addToCart() {
-    const productName = 'Product Name'; // Get the actual product name
-    const price = 50; // Get the actual product price
+    const productName = 'Rakib er Bichi'; // Get the actual product name
+    const price = 45; // Get the actual product price
     const quantity = parseInt(document.getElementById('quantity').value);
 
     const item = {
